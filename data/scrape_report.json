@@ -1,0 +1,510 @@
+{
+  "total": 101,
+  "failures": [
+    {
+      "code": "01",
+      "name": "Ain",
+      "status": "url_introuvable"
+    },
+    {
+      "code": "02",
+      "name": "Aisne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "03",
+      "name": "Allier",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "04",
+      "name": "Alpes-de-Haute-Provence",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "05",
+      "name": "Hautes-Alpes",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "06",
+      "name": "Alpes-Maritimes",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "07",
+      "name": "Ardèche",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "08",
+      "name": "Ardennes",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "09",
+      "name": "Ariège",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "10",
+      "name": "Aube",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "11",
+      "name": "Aude",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "12",
+      "name": "Aveyron",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "13",
+      "name": "Bouches-du-Rhône",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "14",
+      "name": "Calvados",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "15",
+      "name": "Cantal",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "16",
+      "name": "Charente",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "17",
+      "name": "Charente-Maritime",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "18",
+      "name": "Cher",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "19",
+      "name": "Corrèze",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "2A",
+      "name": "Corse-du-Sud",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "2B",
+      "name": "Haute-Corse",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "21",
+      "name": "Côte-d'Or",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "22",
+      "name": "Côtes-d'Armor",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "23",
+      "name": "Creuse",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "24",
+      "name": "Dordogne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "25",
+      "name": "Doubs",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "26",
+      "name": "Drôme",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "27",
+      "name": "Eure",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "28",
+      "name": "Eure-et-Loir",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "29",
+      "name": "Finistère",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "30",
+      "name": "Gard",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "31",
+      "name": "Haute-Garonne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "32",
+      "name": "Gers",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "33",
+      "name": "Gironde",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "34",
+      "name": "Hérault",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "35",
+      "name": "Ille-et-Vilaine",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "36",
+      "name": "Indre",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "37",
+      "name": "Indre-et-Loire",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "38",
+      "name": "Isère",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "39",
+      "name": "Jura",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "40",
+      "name": "Landes",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "41",
+      "name": "Loir-et-Cher",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "42",
+      "name": "Loire",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "43",
+      "name": "Haute-Loire",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "44",
+      "name": "Loire-Atlantique",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "45",
+      "name": "Loiret",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "46",
+      "name": "Lot",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "47",
+      "name": "Lot-et-Garonne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "48",
+      "name": "Lozère",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "49",
+      "name": "Maine-et-Loire",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "50",
+      "name": "Manche",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "51",
+      "name": "Marne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "52",
+      "name": "Haute-Marne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "53",
+      "name": "Mayenne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "54",
+      "name": "Meurthe-et-Moselle",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "55",
+      "name": "Meuse",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "56",
+      "name": "Morbihan",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "57",
+      "name": "Moselle",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "58",
+      "name": "Nièvre",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "59",
+      "name": "Nord",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "60",
+      "name": "Oise",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "61",
+      "name": "Orne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "62",
+      "name": "Pas-de-Calais",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "63",
+      "name": "Puy-de-Dôme",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "64",
+      "name": "Pyrénées-Atlantiques",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "65",
+      "name": "Hautes-Pyrénées",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "66",
+      "name": "Pyrénées-Orientales",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "67",
+      "name": "Bas-Rhin",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "68",
+      "name": "Haut-Rhin",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "69",
+      "name": "Rhône",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "70",
+      "name": "Haute-Saône",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "71",
+      "name": "Saône-et-Loire",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "72",
+      "name": "Sarthe",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "73",
+      "name": "Savoie",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "74",
+      "name": "Haute-Savoie",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "75",
+      "name": "Paris",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "76",
+      "name": "Seine-Maritime",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "77",
+      "name": "Seine-et-Marne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "78",
+      "name": "Yvelines",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "79",
+      "name": "Deux-Sèvres",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "80",
+      "name": "Somme",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "81",
+      "name": "Tarn",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "82",
+      "name": "Tarn-et-Garonne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "83",
+      "name": "Var",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "84",
+      "name": "Vaucluse",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "85",
+      "name": "Vendée",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "86",
+      "name": "Vienne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "87",
+      "name": "Haute-Vienne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "88",
+      "name": "Vosges",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "89",
+      "name": "Yonne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "90",
+      "name": "Territoire de Belfort",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "91",
+      "name": "Essonne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "92",
+      "name": "Hauts-de-Seine",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "93",
+      "name": "Seine-Saint-Denis",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "94",
+      "name": "Val-de-Marne",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "95",
+      "name": "Val-d'Oise",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "971",
+      "name": "Guadeloupe",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "972",
+      "name": "Martinique",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "973",
+      "name": "Guyane",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "974",
+      "name": "La Réunion",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    },
+    {
+      "code": "976",
+      "name": "Mayotte",
+      "status": "page_ok_mais_aucun_delai_detecte"
+    }
+  ]
+}

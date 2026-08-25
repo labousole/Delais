@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T21:19:43.237582+00:00",
-  "source": "DONNEES DE DEMONSTRATION - a remplacer par un vrai run du scraper",
+  "generated_at": "2026-08-25T11:48:56.901050+00:00",
+  "source": "caf.fr (pages 'Délais de traitement' par département)",
   "unit": "jours",
   "departments": [
     {
@@ -8,1414 +8,909 @@
       "name": "Ain",
       "slug": "caf-de-l-ain",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ain/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 18,
-        "apl": 19,
-        "rsa": 50,
-        "aah": 63
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237626+00:00"
+      "delais": {},
+      "status": "url_introuvable",
+      "scraped_at": "2026-08-25T11:46:01.654512+00:00"
     },
     {
       "code": "02",
       "name": "Aisne",
       "slug": "caf-de-l-aisne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aisne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 25,
-        "apl": 26,
-        "rsa": 39,
-        "aah": 53
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237635+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:04.502819+00:00"
     },
     {
       "code": "03",
       "name": "Allier",
       "slug": "caf-de-l-allier",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-allier/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 38,
-        "apl": 20,
-        "rsa": 34,
-        "aah": 53
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237640+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:06.387893+00:00"
     },
     {
       "code": "04",
       "name": "Alpes-de-Haute-Provence",
       "slug": "caf-des-alpes-de-haute-provence",
       "source_url": "https://www.caf.fr/allocataires/caf-des-alpes-de-haute-provence/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 24,
-        "apl": 32,
-        "rsa": 65,
-        "aah": 49
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237645+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:08.101012+00:00"
     },
     {
       "code": "05",
       "name": "Hautes-Alpes",
       "slug": "caf-des-hautes-alpes",
       "source_url": "https://www.caf.fr/allocataires/caf-des-hautes-alpes/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 23,
-        "apl": 44,
-        "rsa": 47,
-        "aah": 76
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237649+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:09.822941+00:00"
     },
     {
       "code": "06",
       "name": "Alpes-Maritimes",
       "slug": "caf-des-alpes-maritimes",
       "source_url": "https://www.caf.fr/allocataires/caf-des-alpes-maritimes/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 28,
-        "apl": 18,
-        "rsa": 43,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237656+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:11.544937+00:00"
     },
     {
       "code": "07",
       "name": "Ardèche",
       "slug": "caf-de-l-ardeche",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ardeche/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 32,
-        "apl": 35,
-        "rsa": 42,
-        "aah": 61
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237660+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:13.254485+00:00"
     },
     {
       "code": "08",
       "name": "Ardennes",
       "slug": "caf-des-ardennes",
       "source_url": "https://www.caf.fr/allocataires/caf-des-ardennes/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 32,
-        "apl": 24,
-        "rsa": 38,
-        "aah": 72
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237667+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:14.969572+00:00"
     },
     {
       "code": "09",
       "name": "Ariège",
       "slug": "caf-de-l-ariege",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ariege/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 17,
-        "apl": 40,
-        "rsa": 55,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237671+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:16.687709+00:00"
     },
     {
       "code": "10",
       "name": "Aube",
       "slug": "caf-de-l-aube",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aube/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 13,
-        "apl": 47,
-        "rsa": 40,
-        "aah": 72
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237676+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:18.404030+00:00"
     },
     {
       "code": "11",
       "name": "Aude",
       "slug": "caf-de-l-aude",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aude/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 16,
-        "apl": 36,
-        "rsa": 56,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237680+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:20.117570+00:00"
     },
     {
       "code": "12",
       "name": "Aveyron",
       "slug": "caf-de-l-aveyron",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aveyron/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 20,
-        "rsa": 47,
-        "aah": 66
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237684+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:21.831005+00:00"
     },
     {
       "code": "13",
       "name": "Bouches-du-Rhône",
       "slug": "caf-des-bouches-du-rhone",
       "source_url": "https://www.caf.fr/allocataires/caf-des-bouches-du-rhone/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 16,
-        "apl": 32,
-        "rsa": 39,
-        "aah": 72
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237689+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:23.542649+00:00"
     },
     {
       "code": "14",
       "name": "Calvados",
       "slug": "caf-du-calvados",
       "source_url": "https://www.caf.fr/allocataires/caf-du-calvados/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 28,
-        "apl": 47,
-        "rsa": 56,
-        "aah": 58
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237695+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:25.260218+00:00"
     },
     {
       "code": "15",
       "name": "Cantal",
       "slug": "caf-du-cantal",
       "source_url": "https://www.caf.fr/allocataires/caf-du-cantal/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 34,
-        "apl": 40,
-        "rsa": 46,
-        "aah": 65
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237699+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:26.981631+00:00"
     },
     {
       "code": "16",
       "name": "Charente",
       "slug": "caf-de-la-charente",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-charente/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 28,
-        "rsa": 48,
-        "aah": 58
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237704+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:28.700374+00:00"
     },
     {
       "code": "17",
       "name": "Charente-Maritime",
       "slug": "caf-de-la-charente-maritime",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-charente-maritime/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 40,
-        "apl": 42,
-        "rsa": 50,
-        "aah": 62
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237708+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:30.415494+00:00"
     },
     {
       "code": "18",
       "name": "Cher",
       "slug": "caf-du-cher",
       "source_url": "https://www.caf.fr/allocataires/caf-du-cher/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 31,
-        "apl": 21,
-        "rsa": 47,
-        "aah": 50
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237715+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:32.134251+00:00"
     },
     {
       "code": "19",
       "name": "Corrèze",
       "slug": "caf-de-la-correze",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-correze/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 31,
-        "apl": 43,
-        "rsa": 50,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237719+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:33.847018+00:00"
     },
     {
       "code": "2A",
       "name": "Corse-du-Sud",
       "slug": "caf-de-la-corse-du-sud",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-corse-du-sud/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 24,
-        "apl": 38,
-        "rsa": 46,
-        "aah": 79
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237724+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:35.560214+00:00"
     },
     {
       "code": "2B",
       "name": "Haute-Corse",
       "slug": "caf-de-la-haute-corse",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-corse/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 36,
-        "apl": 47,
-        "rsa": 42,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237728+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:37.283025+00:00"
     },
     {
       "code": "21",
       "name": "Côte-d'Or",
       "slug": "caf-de-la-cote-d-or",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-cote-d-or/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 19,
-        "apl": 33,
-        "rsa": 49,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237732+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:38.999872+00:00"
     },
     {
       "code": "22",
       "name": "Côtes-d'Armor",
       "slug": "caf-des-cotes-d-armor",
       "source_url": "https://www.caf.fr/allocataires/caf-des-cotes-d-armor/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 36,
-        "apl": 41,
-        "rsa": 47,
-        "aah": 56
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237738+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:40.723021+00:00"
     },
     {
       "code": "23",
       "name": "Creuse",
       "slug": "caf-de-la-creuse",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-creuse/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 49,
-        "rsa": 38,
-        "aah": 51
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237743+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:42.435534+00:00"
     },
     {
       "code": "24",
       "name": "Dordogne",
       "slug": "caf-de-la-dordogne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-dordogne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 18,
-        "apl": 27,
-        "rsa": 43,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237747+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:44.145361+00:00"
     },
     {
       "code": "25",
       "name": "Doubs",
       "slug": "caf-du-doubs",
       "source_url": "https://www.caf.fr/allocataires/caf-du-doubs/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 42,
-        "rsa": 57,
-        "aah": 77
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237751+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:45.866322+00:00"
     },
     {
       "code": "26",
       "name": "Drôme",
       "slug": "caf-de-la-drome",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-drome/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 18,
-        "rsa": 40,
-        "aah": 65
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237756+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:47.591197+00:00"
     },
     {
       "code": "27",
       "name": "Eure",
       "slug": "caf-de-l-eure",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-eure/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 32,
-        "apl": 25,
-        "rsa": 51,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237761+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:49.309895+00:00"
     },
     {
       "code": "28",
       "name": "Eure-et-Loir",
       "slug": "caf-de-l-eure-et-loir",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-eure-et-loir/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 21,
-        "apl": 47,
-        "rsa": 33,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237776+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:51.036395+00:00"
     },
     {
       "code": "29",
       "name": "Finistère",
       "slug": "caf-du-finistere",
       "source_url": "https://www.caf.fr/allocataires/caf-du-finistere/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 29,
-        "rsa": 65,
-        "aah": 54
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237783+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:52.757549+00:00"
     },
     {
       "code": "30",
       "name": "Gard",
       "slug": "caf-du-gard",
       "source_url": "https://www.caf.fr/allocataires/caf-du-gard/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 30,
-        "apl": 50,
-        "rsa": 45,
-        "aah": 57
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237788+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:54.475149+00:00"
     },
     {
       "code": "31",
       "name": "Haute-Garonne",
       "slug": "caf-de-la-haute-garonne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-garonne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 34,
-        "apl": 28,
-        "rsa": 33,
-        "aah": 68
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237792+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:56.197319+00:00"
     },
     {
       "code": "32",
       "name": "Gers",
       "slug": "caf-du-gers",
       "source_url": "https://www.caf.fr/allocataires/caf-du-gers/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 42,
-        "apl": 19,
-        "rsa": 40,
-        "aah": 71
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237796+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:57.912773+00:00"
     },
     {
       "code": "33",
       "name": "Gironde",
       "slug": "caf-de-la-gironde",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-gironde/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 30,
-        "apl": 33,
-        "rsa": 36,
-        "aah": 63
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237801+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:46:59.631311+00:00"
     },
     {
       "code": "34",
       "name": "Hérault",
       "slug": "caf-de-l-herault",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-herault/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 16,
-        "apl": 23,
-        "rsa": 64,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237805+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:01.349802+00:00"
     },
     {
       "code": "35",
       "name": "Ille-et-Vilaine",
       "slug": "caf-de-l-ille-et-vilaine",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ille-et-vilaine/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 19,
-        "apl": 26,
-        "rsa": 63,
-        "aah": 58
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237810+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:03.080104+00:00"
     },
     {
       "code": "36",
       "name": "Indre",
       "slug": "caf-de-l-indre",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-indre/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 45,
-        "rsa": 46,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237814+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:04.801862+00:00"
     },
     {
       "code": "37",
       "name": "Indre-et-Loire",
       "slug": "caf-de-l-indre-et-loire",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-indre-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 30,
-        "apl": 43,
-        "rsa": 56,
-        "aah": 76
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237821+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:06.521563+00:00"
     },
     {
       "code": "38",
       "name": "Isère",
       "slug": "caf-de-l-isere",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-isere/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 39,
-        "apl": 25,
-        "rsa": 48,
-        "aah": 62
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237825+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:08.239316+00:00"
     },
     {
       "code": "39",
       "name": "Jura",
       "slug": "caf-du-jura",
       "source_url": "https://www.caf.fr/allocataires/caf-du-jura/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 39,
-        "rsa": 34,
-        "aah": 62
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237829+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:09.959379+00:00"
     },
     {
       "code": "40",
       "name": "Landes",
       "slug": "caf-des-landes",
       "source_url": "https://www.caf.fr/allocataires/caf-des-landes/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 25,
-        "apl": 18,
-        "rsa": 37,
-        "aah": 51
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237834+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:11.671687+00:00"
     },
     {
       "code": "41",
       "name": "Loir-et-Cher",
       "slug": "caf-de-loir-et-cher",
       "source_url": "https://www.caf.fr/allocataires/caf-de-loir-et-cher/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 25,
-        "apl": 22,
-        "rsa": 35,
-        "aah": 69
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237838+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:13.385747+00:00"
     },
     {
       "code": "42",
       "name": "Loire",
       "slug": "caf-de-la-loire",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-loire/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 50,
-        "rsa": 48,
-        "aah": 65
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237842+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:15.110203+00:00"
     },
     {
       "code": "43",
       "name": "Haute-Loire",
       "slug": "caf-de-la-haute-loire",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-loire/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 42,
-        "apl": 31,
-        "rsa": 41,
-        "aah": 78
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237846+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:16.829677+00:00"
     },
     {
       "code": "44",
       "name": "Loire-Atlantique",
       "slug": "caf-de-la-loire-atlantique",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-loire-atlantique/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 26,
-        "apl": 48,
-        "rsa": 59,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237851+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:18.548280+00:00"
     },
     {
       "code": "45",
       "name": "Loiret",
       "slug": "caf-du-loiret",
       "source_url": "https://www.caf.fr/allocataires/caf-du-loiret/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 17,
-        "apl": 24,
-        "rsa": 60,
-        "aah": 70
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237855+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:20.259857+00:00"
     },
     {
       "code": "46",
       "name": "Lot",
       "slug": "caf-du-lot",
       "source_url": "https://www.caf.fr/allocataires/caf-du-lot/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 38,
-        "apl": 44,
-        "rsa": 62,
-        "aah": 51
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237859+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:21.987143+00:00"
     },
     {
       "code": "47",
       "name": "Lot-et-Garonne",
       "slug": "caf-du-lot-et-garonne",
       "source_url": "https://www.caf.fr/allocataires/caf-du-lot-et-garonne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 17,
-        "apl": 21,
-        "rsa": 58,
-        "aah": 69
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237863+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:23.710844+00:00"
     },
     {
       "code": "48",
       "name": "Lozère",
       "slug": "caf-de-la-lozere",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-lozere/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 17,
-        "apl": 33,
-        "rsa": 45,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237868+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:25.428699+00:00"
     },
     {
       "code": "49",
       "name": "Maine-et-Loire",
       "slug": "caf-du-maine-et-loire",
       "source_url": "https://www.caf.fr/allocataires/caf-du-maine-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 39,
-        "apl": 26,
-        "rsa": 60,
-        "aah": 59
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237872+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:27.151295+00:00"
     },
     {
       "code": "50",
       "name": "Manche",
       "slug": "caf-de-la-manche",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-manche/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 28,
-        "apl": 47,
-        "rsa": 48,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237878+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:28.873309+00:00"
     },
     {
       "code": "51",
       "name": "Marne",
       "slug": "caf-de-la-marne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-marne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 39,
-        "apl": 24,
-        "rsa": 36,
-        "aah": 48
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237882+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:30.588730+00:00"
     },
     {
       "code": "52",
       "name": "Haute-Marne",
       "slug": "caf-de-la-haute-marne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-marne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 16,
-        "apl": 33,
-        "rsa": 43,
-        "aah": 74
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237887+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:32.461412+00:00"
     },
     {
       "code": "53",
       "name": "Mayenne",
       "slug": "caf-de-la-mayenne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-mayenne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 42,
-        "apl": 48,
-        "rsa": 46,
-        "aah": 73
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237891+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:34.215743+00:00"
     },
     {
       "code": "54",
       "name": "Meurthe-et-Moselle",
       "slug": "caf-de-meurthe-et-moselle",
       "source_url": "https://www.caf.fr/allocataires/caf-de-meurthe-et-moselle/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 14,
-        "apl": 28,
-        "rsa": 57,
-        "aah": 48
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237898+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:35.933668+00:00"
     },
     {
       "code": "55",
       "name": "Meuse",
       "slug": "caf-de-la-meuse",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-meuse/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 35,
-        "apl": 34,
-        "rsa": 62,
-        "aah": 66
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237903+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:37.646557+00:00"
     },
     {
       "code": "56",
       "name": "Morbihan",
       "slug": "caf-du-morbihan",
       "source_url": "https://www.caf.fr/allocataires/caf-du-morbihan/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 38,
-        "apl": 49,
-        "rsa": 42,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237910+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:39.379779+00:00"
     },
     {
       "code": "57",
       "name": "Moselle",
       "slug": "caf-de-la-moselle",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-moselle/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 29,
-        "apl": 31,
-        "rsa": 36,
-        "aah": 51
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237915+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:41.104503+00:00"
     },
     {
       "code": "58",
       "name": "Nièvre",
       "slug": "caf-de-la-nievre",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-nievre/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 31,
-        "apl": 21,
-        "rsa": 36,
-        "aah": 78
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237919+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:42.821700+00:00"
     },
     {
       "code": "59",
       "name": "Nord",
       "slug": "caf-du-nord",
       "source_url": "https://www.caf.fr/allocataires/caf-du-nord/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 28,
-        "rsa": 36,
-        "aah": 80
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237924+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:44.553337+00:00"
     },
     {
       "code": "60",
       "name": "Oise",
       "slug": "caf-de-l-oise",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-oise/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 16,
-        "apl": 29,
-        "rsa": 37,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237928+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:46.263069+00:00"
     },
     {
       "code": "61",
       "name": "Orne",
       "slug": "caf-de-l-orne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-orne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 26,
-        "apl": 43,
-        "rsa": 40,
-        "aah": 63
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237932+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:47.990421+00:00"
     },
     {
       "code": "62",
       "name": "Pas-de-Calais",
       "slug": "caf-du-pas-de-calais",
       "source_url": "https://www.caf.fr/allocataires/caf-du-pas-de-calais/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 13,
-        "apl": 23,
-        "rsa": 59,
-        "aah": 68
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237937+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:49.702503+00:00"
     },
     {
       "code": "63",
       "name": "Puy-de-Dôme",
       "slug": "caf-du-puy-de-dome",
       "source_url": "https://www.caf.fr/allocataires/caf-du-puy-de-dome/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 31,
-        "rsa": 53,
-        "aah": 63
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237943+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:51.439751+00:00"
     },
     {
       "code": "64",
       "name": "Pyrénées-Atlantiques",
       "slug": "caf-des-pyrenees-atlantiques",
       "source_url": "https://www.caf.fr/allocataires/caf-des-pyrenees-atlantiques/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 43,
-        "rsa": 41,
-        "aah": 67
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237947+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:53.159151+00:00"
     },
     {
       "code": "65",
       "name": "Hautes-Pyrénées",
       "slug": "caf-des-hautes-pyrenees",
       "source_url": "https://www.caf.fr/allocataires/caf-des-hautes-pyrenees/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 40,
-        "apl": 38,
-        "rsa": 37,
-        "aah": 48
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237952+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:54.874038+00:00"
     },
     {
       "code": "66",
       "name": "Pyrénées-Orientales",
       "slug": "caf-des-pyrenees-orientales",
       "source_url": "https://www.caf.fr/allocataires/caf-des-pyrenees-orientales/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 40,
-        "apl": 24,
-        "rsa": 37,
-        "aah": 61
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237956+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:56.615302+00:00"
     },
     {
       "code": "67",
       "name": "Bas-Rhin",
       "slug": "caf-du-bas-rhin",
       "source_url": "https://www.caf.fr/allocataires/caf-du-bas-rhin/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 34,
-        "rsa": 41,
-        "aah": 70
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237960+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:47:58.332784+00:00"
     },
     {
       "code": "68",
       "name": "Haut-Rhin",
       "slug": "caf-du-haut-rhin",
       "source_url": "https://www.caf.fr/allocataires/caf-du-haut-rhin/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 15,
-        "apl": 33,
-        "rsa": 56,
-        "aah": 66
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237965+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:00.050513+00:00"
     },
     {
       "code": "69",
       "name": "Rhône",
       "slug": "caf-du-rhone",
       "source_url": "https://www.caf.fr/allocataires/caf-du-rhone/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 21,
-        "apl": 46,
-        "rsa": 52,
-        "aah": 48
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237971+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:01.773654+00:00"
     },
     {
       "code": "70",
       "name": "Haute-Saône",
       "slug": "caf-de-la-haute-saone",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-saone/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 30,
-        "apl": 24,
-        "rsa": 41,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237976+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:03.490297+00:00"
     },
     {
       "code": "71",
       "name": "Saône-et-Loire",
       "slug": "caf-de-saone-et-loire",
       "source_url": "https://www.caf.fr/allocataires/caf-de-saone-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 18,
-        "apl": 24,
-        "rsa": 42,
-        "aah": 65
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237982+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:05.211486+00:00"
     },
     {
       "code": "72",
       "name": "Sarthe",
       "slug": "caf-de-la-sarthe",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-sarthe/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 29,
-        "apl": 31,
-        "rsa": 54,
-        "aah": 61
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237987+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:06.926017+00:00"
     },
     {
       "code": "73",
       "name": "Savoie",
       "slug": "caf-de-la-savoie",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-savoie/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 50,
-        "rsa": 64,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.237991+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:08.646769+00:00"
     },
     {
       "code": "74",
       "name": "Haute-Savoie",
       "slug": "caf-de-la-haute-savoie",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-savoie/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 14,
-        "apl": 23,
-        "rsa": 60,
-        "aah": 65
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238013+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:10.381182+00:00"
     },
     {
       "code": "75",
       "name": "Paris",
       "slug": "caf-de-paris",
       "source_url": "https://www.caf.fr/allocataires/caf-de-paris/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 13,
-        "apl": 18,
-        "rsa": 54,
-        "aah": 56
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238020+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:12.095593+00:00"
     },
     {
       "code": "76",
       "name": "Seine-Maritime",
       "slug": "caf-de-la-seine-maritime",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-seine-maritime/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 28,
-        "rsa": 61,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238028+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:13.808555+00:00"
     },
     {
       "code": "77",
       "name": "Seine-et-Marne",
       "slug": "caf-de-seine-et-marne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-seine-et-marne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 11,
-        "apl": 25,
-        "rsa": 37,
-        "aah": 57
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238033+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:15.524476+00:00"
     },
     {
       "code": "78",
       "name": "Yvelines",
       "slug": "caf-des-yvelines",
       "source_url": "https://www.caf.fr/allocataires/caf-des-yvelines/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 13,
-        "apl": 41,
-        "rsa": 42,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238040+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:17.239599+00:00"
     },
     {
       "code": "79",
       "name": "Deux-Sèvres",
       "slug": "caf-des-deux-sevres",
       "source_url": "https://www.caf.fr/allocataires/caf-des-deux-sevres/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 19,
-        "apl": 20,
-        "rsa": 52,
-        "aah": 71
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238044+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:18.967076+00:00"
     },
     {
       "code": "80",
       "name": "Somme",
       "slug": "caf-de-la-somme",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-somme/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 13,
-        "apl": 40,
-        "rsa": 46,
-        "aah": 63
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238049+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:20.682030+00:00"
     },
     {
       "code": "81",
       "name": "Tarn",
       "slug": "caf-du-tarn",
       "source_url": "https://www.caf.fr/allocataires/caf-du-tarn/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 17,
-        "apl": 40,
-        "rsa": 59,
-        "aah": 57
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238053+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:22.404751+00:00"
     },
     {
       "code": "82",
       "name": "Tarn-et-Garonne",
       "slug": "caf-du-tarn-et-garonne",
       "source_url": "https://www.caf.fr/allocataires/caf-du-tarn-et-garonne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 26,
-        "apl": 28,
-        "rsa": 44,
-        "aah": 74
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238058+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:24.149156+00:00"
     },
     {
       "code": "83",
       "name": "Var",
       "slug": "caf-du-var",
       "source_url": "https://www.caf.fr/allocataires/caf-du-var/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 12,
-        "apl": 29,
-        "rsa": 54,
-        "aah": 74
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238062+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:25.869122+00:00"
     },
     {
       "code": "84",
       "name": "Vaucluse",
       "slug": "caf-du-vaucluse",
       "source_url": "https://www.caf.fr/allocataires/caf-du-vaucluse/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 26,
-        "apl": 35,
-        "rsa": 43,
-        "aah": 54
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238067+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:27.585695+00:00"
     },
     {
       "code": "85",
       "name": "Vendée",
       "slug": "caf-de-la-vendee",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-vendee/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 35,
-        "apl": 20,
-        "rsa": 63,
-        "aah": 62
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238071+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:29.308785+00:00"
     },
     {
       "code": "86",
       "name": "Vienne",
       "slug": "caf-de-la-vienne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-vienne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 23,
-        "apl": 47,
-        "rsa": 55,
-        "aah": 67
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238077+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:31.024493+00:00"
     },
     {
       "code": "87",
       "name": "Haute-Vienne",
       "slug": "caf-de-la-haute-vienne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-vienne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 25,
-        "apl": 32,
-        "rsa": 34,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238082+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:32.746496+00:00"
     },
     {
       "code": "88",
       "name": "Vosges",
       "slug": "caf-des-vosges",
       "source_url": "https://www.caf.fr/allocataires/caf-des-vosges/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 36,
-        "apl": 39,
-        "rsa": 50,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238087+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:34.471720+00:00"
     },
     {
       "code": "89",
       "name": "Yonne",
       "slug": "caf-de-l-yonne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-yonne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 28,
-        "apl": 40,
-        "rsa": 65,
-        "aah": 73
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238091+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:36.214342+00:00"
     },
     {
       "code": "90",
       "name": "Territoire de Belfort",
       "slug": "caf-du-territoire-de-belfort",
       "source_url": "https://www.caf.fr/allocataires/caf-du-territoire-de-belfort/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 32,
-        "apl": 19,
-        "rsa": 40,
-        "aah": 64
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238095+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:37.931384+00:00"
     },
     {
       "code": "91",
       "name": "Essonne",
       "slug": "caf-de-l-essonne",
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-essonne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 22,
-        "apl": 34,
-        "rsa": 35,
-        "aah": 54
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238100+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:39.646590+00:00"
     },
     {
       "code": "92",
       "name": "Hauts-de-Seine",
       "slug": "caf-des-hauts-de-seine",
       "source_url": "https://www.caf.fr/allocataires/caf-des-hauts-de-seine/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 38,
-        "apl": 40,
-        "rsa": 53,
-        "aah": 75
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238104+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:41.364057+00:00"
     },
     {
       "code": "93",
       "name": "Seine-Saint-Denis",
       "slug": "caf-de-la-seine-saint-denis",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-seine-saint-denis/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 25,
-        "rsa": 57,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238110+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:43.085936+00:00"
     },
     {
       "code": "94",
       "name": "Val-de-Marne",
       "slug": "caf-du-val-de-marne",
       "source_url": "https://www.caf.fr/allocataires/caf-du-val-de-marne/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 27,
-        "apl": 20,
-        "rsa": 60,
-        "aah": 48
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238115+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:44.803088+00:00"
     },
     {
       "code": "95",
       "name": "Val-d'Oise",
       "slug": "caf-du-val-d-oise",
       "source_url": "https://www.caf.fr/allocataires/caf-du-val-d-oise/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 23,
-        "apl": 41,
-        "rsa": 60,
-        "aah": 52
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238121+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:46.533180+00:00"
     },
     {
       "code": "971",
       "name": "Guadeloupe",
       "slug": "caf-de-la-guadeloupe",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-guadeloupe/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 32,
-        "apl": 38,
-        "rsa": 40,
-        "aah": 67
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238125+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:48.319932+00:00"
     },
     {
       "code": "972",
       "name": "Martinique",
       "slug": "caf-de-la-martinique",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-martinique/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 43,
-        "apl": 37,
-        "rsa": 59,
-        "aah": 68
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238129+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:50.029788+00:00"
     },
     {
       "code": "973",
       "name": "Guyane",
       "slug": "caf-de-la-guyane",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-guyane/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 36,
-        "apl": 36,
-        "rsa": 41,
-        "aah": 60
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238133+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:51.746638+00:00"
     },
     {
       "code": "974",
       "name": "La Réunion",
       "slug": "caf-de-la-la-reunion",
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-la-reunion/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 37,
-        "apl": 42,
-        "rsa": 44,
-        "aah": 67
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238138+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:53.465755+00:00"
     },
     {
       "code": "976",
       "name": "Mayotte",
       "slug": "caf-de-mayotte",
       "source_url": "https://www.caf.fr/allocataires/caf-de-mayotte/offre-de-service/thematique-libre/delais-de-traitement",
-      "delais": {
-        "prime_activite": 36,
-        "apl": 18,
-        "rsa": 52,
-        "aah": 66
-      },
-      "status": "demo_data",
-      "scraped_at": "2026-08-24T21:19:43.238143+00:00"
+      "delais": {},
+      "status": "page_ok_mais_aucun_delai_detecte",
+      "scraped_at": "2026-08-25T11:48:55.190555+00:00"
     }
   ]
 }
