@@ -41,7 +41,7 @@ BASE_URL = "https://www.caf.fr/allocataires/{slug}/offre-de-service/thematique-l
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (compatible; DelaisAdminFR/1.0; "
-        "+https://github.com/REPLACE_WITH_YOUR_USERNAME/delais-admin-fr)"
+        "+https://github.com/labousole/Delais)"
     )
 }
 TIMEOUT = 15
