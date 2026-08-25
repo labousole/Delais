@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Combien j'attends — délais administratifs français en direct</title>
+<meta name="description" content="Les délais de traitement réels de la Caf, département par département, mis à jour automatiquement à partir des données officielles." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#top">Combien j'attends<span class="dot">.</span></a>
+    <nav class="topnav">
+      <a href="#grid">Départements</a>
+      <a href="#contribuer">Signaler un délai</a>
+      <a href="https://github.com/REPLACE_WITH_YOUR_USERNAME/delais-admin-fr" target="_blank" rel="noopener">Code source</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div>
+      <p class="eyebrow">Délais administratifs français — mis à jour automatiquement</p>
+      <h1>Combien de temps <em>j'attends</em>, vraiment ?</h1>
+      <p class="lede">
+        La Caf, la préfecture ou France Travail annoncent un délai. La réalité,
+        département par département, est souvent différente. On rassemble les
+        chiffres officiels publiés par chaque organisme au même endroit —
+        et on les remet à jour tous les jours.
+      </p>
+      <div class="search-row">
+        <label for="dept-search" class="sr-only" style="position:absolute;left:-9999px;">Rechercher un département</label>
+        <input id="dept-search" type="search" placeholder="Votre département, ex. Nord ou 59" autocomplete="off" />
+      </div>
+    </div>
+
+    <div class="ticket" aria-hidden="false">
+      <div class="ticket-label">Délai moyen national</div>
+      <div class="ticket-number" id="hero-avg">—</div>
+      <div class="ticket-unit">jours, toutes prestations Caf confondues</div>
+      <div class="ticket-foot">
+        <span>N° 001</span>
+        <span>Maj le <span id="hero-date">—</span></span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<main class="wrap">
+  <div class="filters" role="group" aria-label="Filtrer les départements">
+    <button class="chip" data-filter="all" aria-pressed="true">Tous</button>
+    <button class="chip" data-filter="ok" aria-pressed="false">Dans les temps</button>
+    <button class="chip" data-filter="warn" aria-pressed="false">Sous tension</button>
+    <button class="chip" data-filter="late" aria-pressed="false">En retard</button>
+  </div>
+
+  <h2 class="section-title" id="grid-title">Délais par département</h2>
+  <div class="grid" id="grid" aria-labelledby="grid-title"></div>
+  <p class="empty-state" id="empty-state" hidden>Aucun département ne correspond à votre recherche.</p>
+
+  <div class="disclaimer">
+    <strong>Méthodologie :</strong> les chiffres proviennent des pages « Délais de traitement »
+    publiées par chaque Caf départementale et sont extraits automatiquement chaque jour.
+    Ils peuvent différer du délai réellement constaté sur votre dossier. En cas de doute,
+    vérifiez toujours auprès de la source officielle (lien sur chaque carte).
+  </div>
+</main>
+
+<section class="contribute" id="contribuer">
+  <div class="wrap">
+    <div>
+      <h2>Votre délai réel ne colle pas ?</h2>
+      <p>Signalez le délai que vous avez vraiment constaté — ça aide à repérer les départements où l'écart avec le chiffre officiel est le plus fort.</p>
+    </div>
+    <a class="btn" id="report-link" href="https://github.com/REPLACE_WITH_YOUR_USERNAME/delais-admin-fr/issues/new?labels=temoignage&title=T%C3%A9moignage+d%C3%A9lai&body=D%C3%A9partement%20%3A%20%0APrestation%20%3A%20%0AD%C3%A9lai%20constat%C3%A9%20(en%20jours)%20%3A%20%0ADate%20de%20la%20demande%20%3A%20" target="_blank" rel="noopener">Signaler un délai →</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div>Projet indépendant, non affilié à la Caf ni à aucune administration.</div>
+    <div class="meta">
+      Données : pages publiques caf.fr · Code : <a href="https://github.com/REPLACE_WITH_YOUR_USERNAME/delais-admin-fr">GitHub</a>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
