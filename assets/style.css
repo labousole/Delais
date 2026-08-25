@@ -1,0 +1,334 @@
+/* ==========================================================================
+   Design tokens — "ticket de guichet"
+   Le repère visuel : le petit ticket en papier qu'on tire à la CAF /
+   préfecture / Sécu et qui affiche un numéro et un temps d'attente.
+   ========================================================================== */
+:root {
+  --paper: #eceef0;       /* fond, gris-bleu institutionnel, pas crème */
+  --paper-raised: #f6f7f8;
+  --ink: #1c2541;         /* texte principal, bleu-nuit encre */
+  --ink-soft: #4c5670;
+  --amber: #d98e2b;       /* tampon "en attente" */
+  --amber-ink: #7a4f0f;
+  --red: #b84a3e;         /* tampon "en retard" */
+  --red-bg: #f6e2df;
+  --green: #3d7a5c;       /* tampon "dans les temps" */
+  --green-bg: #e1ede6;
+  --line: #c3c9d1;
+  --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+  --sans: "Inter", -apple-system, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+.wrap {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* -------------------------------------------------------------------- */
+/* Top bar                                                               */
+/* -------------------------------------------------------------------- */
+.topbar {
+  border-bottom: 1px solid var(--line);
+  padding: 16px 0;
+}
+.topbar .wrap { display: flex; align-items: center; justify-content: space-between; }
+.brand {
+  font-family: var(--mono);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  font-size: 1.05rem;
+  text-decoration: none;
+}
+.brand .dot { color: var(--amber); }
+.topnav a {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: var(--ink-soft);
+  margin-left: 20px;
+}
+.topnav a:hover { color: var(--ink); }
+
+/* -------------------------------------------------------------------- */
+/* Hero — grand ticket déchiré                                          */
+/* -------------------------------------------------------------------- */
+.hero {
+  padding: 56px 0 40px;
+}
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 40px;
+  align-items: center;
+}
+@media (max-width: 780px) {
+  .hero-grid { grid-template-columns: 1fr; }
+}
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+  margin: 0 0 14px;
+}
+h1 {
+  font-family: var(--sans);
+  font-weight: 800;
+  font-size: clamp(2.1rem, 4.2vw, 3.1rem);
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  margin: 0 0 18px;
+}
+h1 em {
+  font-style: normal;
+  color: var(--amber-ink);
+  background: linear-gradient(transparent 62%, var(--amber) 62%);
+}
+.lede {
+  font-size: 1.05rem;
+  color: var(--ink-soft);
+  max-width: 46ch;
+  margin: 0 0 26px;
+}
+
+.search-row {
+  display: flex;
+  gap: 10px;
+  max-width: 420px;
+}
+#dept-search {
+  flex: 1;
+  font-family: var(--sans);
+  font-size: 1rem;
+  padding: 12px 14px;
+  border: 1.5px solid var(--ink);
+  border-radius: 3px;
+  background: var(--paper-raised);
+  color: var(--ink);
+}
+#dept-search:focus { outline: 3px solid var(--amber); outline-offset: 1px; }
+
+/* -- le ticket lui-même -- */
+.ticket {
+  position: relative;
+  background: var(--paper-raised);
+  border: 1.5px dashed var(--ink);
+  border-radius: 4px;
+  padding: 26px 24px 22px;
+  transform: rotate(-1.1deg);
+  box-shadow: 5px 6px 0 rgba(28, 37, 65, 0.08);
+}
+.ticket::before,
+.ticket::after {
+  content: "";
+  position: absolute;
+  width: 22px;
+  height: 22px;
+  background: var(--paper);
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.ticket::before { left: -11px; }
+.ticket::after { right: -11px; }
+.ticket-label {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-soft);
+}
+.ticket-number {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 2.6rem;
+  letter-spacing: -0.01em;
+  margin: 6px 0 2px;
+}
+.ticket-unit { font-family: var(--mono); color: var(--ink-soft); font-size: 0.95rem; }
+.ticket-foot {
+  margin-top: 16px;
+  padding-top: 14px;
+  border-top: 1px dashed var(--line);
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  display: flex;
+  justify-content: space-between;
+}
+
+/* -------------------------------------------------------------------- */
+/* Filtres                                                               */
+/* -------------------------------------------------------------------- */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 0 28px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 28px;
+}
+.chip {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  padding: 7px 13px;
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  background: var(--paper-raised);
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.chip[aria-pressed="true"] {
+  background: var(--ink);
+  color: var(--paper-raised);
+  border-color: var(--ink);
+}
+.chip:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; }
+
+/* -------------------------------------------------------------------- */
+/* Grille de tickets départementaux                                     */
+/* -------------------------------------------------------------------- */
+.section-title {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-soft);
+  margin: 0 0 16px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 16px;
+  padding-bottom: 60px;
+}
+.dept-card {
+  background: var(--paper-raised);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 16px 16px 14px;
+  position: relative;
+  overflow: hidden;
+}
+.dept-card::before {
+  /* perforation en haut, comme un talon de ticket */
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 0;
+  border-top: 2px dashed var(--line);
+}
+.dept-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 10px;
+}
+.dept-code { font-family: var(--mono); font-size: 0.75rem; color: var(--ink-soft); }
+.dept-name { font-weight: 700; font-size: 0.98rem; margin: 2px 0 0; }
+.stamp {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 3px 8px;
+  border-radius: 3px;
+  transform: rotate(-4deg);
+  white-space: nowrap;
+}
+.stamp.ok { background: var(--green-bg); color: var(--green); border: 1px solid var(--green); }
+.stamp.warn { background: #fbeed9; color: var(--amber-ink); border: 1px solid var(--amber); }
+.stamp.late { background: var(--red-bg); color: var(--red); border: 1px solid var(--red); }
+
+.dept-rows { font-family: var(--mono); font-size: 0.84rem; }
+.dept-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px dotted var(--line);
+}
+.dept-row:last-child { border-bottom: none; }
+.dept-row .val { font-weight: 700; }
+
+.dept-card a.source {
+  display: inline-block;
+  margin-top: 10px;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-soft);
+  text-decoration: underline;
+}
+
+.empty-state {
+  font-family: var(--mono);
+  color: var(--ink-soft);
+  padding: 40px 0;
+}
+
+/* -------------------------------------------------------------------- */
+/* Bandeau contribuer                                                   */
+/* -------------------------------------------------------------------- */
+.contribute {
+  background: var(--ink);
+  color: var(--paper-raised);
+  padding: 44px 0;
+}
+.contribute .wrap { display: flex; justify-content: space-between; align-items: center; gap: 24px; flex-wrap: wrap; }
+.contribute h2 { font-size: 1.4rem; margin: 0 0 6px; }
+.contribute p { margin: 0; color: #c7cce0; max-width: 50ch; }
+.btn {
+  display: inline-block;
+  font-family: var(--mono);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 12px 20px;
+  background: var(--amber);
+  color: var(--ink);
+  text-decoration: none;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+.btn:hover { background: #e8a03f; }
+
+/* -------------------------------------------------------------------- */
+/* Footer + notes méthodo                                               */
+/* -------------------------------------------------------------------- */
+footer {
+  padding: 36px 0 60px;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+}
+footer .meta { margin-top: 8px; }
+footer a { text-decoration: underline; }
+
+.disclaimer {
+  border-left: 3px solid var(--amber);
+  padding: 10px 16px;
+  margin: 24px 0 0;
+  background: var(--paper);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
