@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:38:41.020572+00:00",
+  "generated_at": "2026-09-10T05:38:09.291898+00:00",
   "source": "caf.fr (pages 'Délais de traitement' par département)",
   "unit": "jours",
   "departments": [
@@ -10,7 +10,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ain/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "url_introuvable",
-      "scraped_at": "2026-09-09T05:35:38.620028+00:00"
+      "scraped_at": "2026-09-10T05:35:07.211206+00:00"
     },
     {
       "code": "02",
@@ -19,7 +19,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aisne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:41.663634+00:00"
+      "scraped_at": "2026-09-10T05:35:10.142845+00:00"
     },
     {
       "code": "03",
@@ -28,7 +28,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-allier/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:43.728429+00:00"
+      "scraped_at": "2026-09-10T05:35:12.102975+00:00"
     },
     {
       "code": "04",
@@ -37,7 +37,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-alpes-de-haute-provence/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:45.517037+00:00"
+      "scraped_at": "2026-09-10T05:35:13.892377+00:00"
     },
     {
       "code": "05",
@@ -46,7 +46,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-hautes-alpes/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:47.307141+00:00"
+      "scraped_at": "2026-09-10T05:35:15.691620+00:00"
     },
     {
       "code": "06",
@@ -55,7 +55,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-alpes-maritimes/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:49.091553+00:00"
+      "scraped_at": "2026-09-10T05:35:17.479416+00:00"
     },
     {
       "code": "07",
@@ -64,7 +64,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ardeche/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:50.882458+00:00"
+      "scraped_at": "2026-09-10T05:35:19.276120+00:00"
     },
     {
       "code": "08",
@@ -73,7 +73,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-ardennes/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:52.670648+00:00"
+      "scraped_at": "2026-09-10T05:35:21.065011+00:00"
     },
     {
       "code": "09",
@@ -82,7 +82,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-ariege/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:54.470524+00:00"
+      "scraped_at": "2026-09-10T05:35:22.854361+00:00"
     },
     {
       "code": "10",
@@ -91,7 +91,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aube/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:56.260713+00:00"
+      "scraped_at": "2026-09-10T05:35:24.643070+00:00"
     },
     {
       "code": "11",
@@ -100,7 +100,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aude/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:58.057027+00:00"
+      "scraped_at": "2026-09-10T05:35:26.436409+00:00"
     },
     {
       "code": "12",
@@ -109,7 +109,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-aveyron/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:35:59.848053+00:00"
+      "scraped_at": "2026-09-10T05:35:28.225617+00:00"
     },
     {
       "code": "13",
@@ -118,7 +118,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-bouches-du-rhone/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:01.650494+00:00"
+      "scraped_at": "2026-09-10T05:35:30.011257+00:00"
     },
     {
       "code": "14",
@@ -127,7 +127,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-calvados/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:03.437101+00:00"
+      "scraped_at": "2026-09-10T05:35:31.794771+00:00"
     },
     {
       "code": "15",
@@ -136,7 +136,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-cantal/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:05.223041+00:00"
+      "scraped_at": "2026-09-10T05:35:33.581245+00:00"
     },
     {
       "code": "16",
@@ -145,7 +145,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-charente/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:07.016575+00:00"
+      "scraped_at": "2026-09-10T05:35:35.367320+00:00"
     },
     {
       "code": "17",
@@ -154,7 +154,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-charente-maritime/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:08.805624+00:00"
+      "scraped_at": "2026-09-10T05:35:37.158770+00:00"
     },
     {
       "code": "18",
@@ -163,7 +163,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-cher/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:10.603292+00:00"
+      "scraped_at": "2026-09-10T05:35:38.964904+00:00"
     },
     {
       "code": "19",
@@ -172,7 +172,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-correze/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:12.391419+00:00"
+      "scraped_at": "2026-09-10T05:35:40.752052+00:00"
     },
     {
       "code": "2A",
@@ -181,7 +181,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-corse-du-sud/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:14.188988+00:00"
+      "scraped_at": "2026-09-10T05:35:42.538257+00:00"
     },
     {
       "code": "2B",
@@ -190,7 +190,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-corse/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:15.974045+00:00"
+      "scraped_at": "2026-09-10T05:35:44.322811+00:00"
     },
     {
       "code": "21",
@@ -199,7 +199,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-cote-d-or/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:17.766818+00:00"
+      "scraped_at": "2026-09-10T05:35:46.115384+00:00"
     },
     {
       "code": "22",
@@ -208,7 +208,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-cotes-d-armor/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:19.557040+00:00"
+      "scraped_at": "2026-09-10T05:35:47.901813+00:00"
     },
     {
       "code": "23",
@@ -217,7 +217,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-creuse/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:21.349921+00:00"
+      "scraped_at": "2026-09-10T05:35:49.692504+00:00"
     },
     {
       "code": "24",
@@ -226,7 +226,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-dordogne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:23.134646+00:00"
+      "scraped_at": "2026-09-10T05:35:51.478975+00:00"
     },
     {
       "code": "25",
@@ -235,7 +235,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-doubs/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:24.922193+00:00"
+      "scraped_at": "2026-09-10T05:35:53.256573+00:00"
     },
     {
       "code": "26",
@@ -244,7 +244,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-drome/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:26.706104+00:00"
+      "scraped_at": "2026-09-10T05:35:55.045552+00:00"
     },
     {
       "code": "27",
@@ -253,7 +253,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-eure/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:28.490091+00:00"
+      "scraped_at": "2026-09-10T05:35:56.826533+00:00"
     },
     {
       "code": "28",
@@ -262,7 +262,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-d-eure-et-loir/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:30.272305+00:00"
+      "scraped_at": "2026-09-10T05:35:58.610975+00:00"
     },
     {
       "code": "29",
@@ -271,7 +271,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-finistere/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:32.058260+00:00"
+      "scraped_at": "2026-09-10T05:36:00.402391+00:00"
     },
     {
       "code": "30",
@@ -280,7 +280,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-gard/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:33.841852+00:00"
+      "scraped_at": "2026-09-10T05:36:02.187929+00:00"
     },
     {
       "code": "31",
@@ -289,7 +289,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-garonne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:35.627468+00:00"
+      "scraped_at": "2026-09-10T05:36:03.973070+00:00"
     },
     {
       "code": "32",
@@ -298,7 +298,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-gers/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:37.410413+00:00"
+      "scraped_at": "2026-09-10T05:36:05.760606+00:00"
     },
     {
       "code": "33",
@@ -307,7 +307,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-gironde/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:39.210019+00:00"
+      "scraped_at": "2026-09-10T05:36:07.549903+00:00"
     },
     {
       "code": "34",
@@ -316,7 +316,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-herault/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:40.993430+00:00"
+      "scraped_at": "2026-09-10T05:36:09.337513+00:00"
     },
     {
       "code": "35",
@@ -325,7 +325,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-d-ille-et-vilaine/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:42.787201+00:00"
+      "scraped_at": "2026-09-10T05:36:11.134636+00:00"
     },
     {
       "code": "36",
@@ -334,7 +334,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-indre/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:44.580504+00:00"
+      "scraped_at": "2026-09-10T05:36:12.919967+00:00"
     },
     {
       "code": "37",
@@ -343,7 +343,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-d-indre-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:46.364250+00:00"
+      "scraped_at": "2026-09-10T05:36:14.711340+00:00"
     },
     {
       "code": "38",
@@ -352,7 +352,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-isere/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:48.146875+00:00"
+      "scraped_at": "2026-09-10T05:36:16.502276+00:00"
     },
     {
       "code": "39",
@@ -361,7 +361,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-jura/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:49.939723+00:00"
+      "scraped_at": "2026-09-10T05:36:18.286564+00:00"
     },
     {
       "code": "40",
@@ -370,7 +370,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-landes/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:51.732606+00:00"
+      "scraped_at": "2026-09-10T05:36:20.072949+00:00"
     },
     {
       "code": "41",
@@ -379,7 +379,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-loir-et-cher/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:53.519506+00:00"
+      "scraped_at": "2026-09-10T05:36:21.863925+00:00"
     },
     {
       "code": "42",
@@ -388,7 +388,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-loire/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:55.302005+00:00"
+      "scraped_at": "2026-09-10T05:36:23.647964+00:00"
     },
     {
       "code": "43",
@@ -397,7 +397,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-loire/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:57.087350+00:00"
+      "scraped_at": "2026-09-10T05:36:25.446000+00:00"
     },
     {
       "code": "44",
@@ -406,7 +406,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-loire-atlantique/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:36:58.877521+00:00"
+      "scraped_at": "2026-09-10T05:36:27.236998+00:00"
     },
     {
       "code": "45",
@@ -415,7 +415,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-loiret/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:00.667202+00:00"
+      "scraped_at": "2026-09-10T05:36:29.018215+00:00"
     },
     {
       "code": "46",
@@ -424,7 +424,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-lot/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:02.448869+00:00"
+      "scraped_at": "2026-09-10T05:36:30.802095+00:00"
     },
     {
       "code": "47",
@@ -433,7 +433,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-lot-et-garonne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:04.247998+00:00"
+      "scraped_at": "2026-09-10T05:36:32.586619+00:00"
     },
     {
       "code": "48",
@@ -442,7 +442,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-lozere/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:06.045242+00:00"
+      "scraped_at": "2026-09-10T05:36:34.366227+00:00"
     },
     {
       "code": "49",
@@ -451,7 +451,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-maine-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:07.836370+00:00"
+      "scraped_at": "2026-09-10T05:36:36.152271+00:00"
     },
     {
       "code": "50",
@@ -460,7 +460,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-manche/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:09.658845+00:00"
+      "scraped_at": "2026-09-10T05:36:37.943239+00:00"
     },
     {
       "code": "51",
@@ -469,7 +469,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-marne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:11.451238+00:00"
+      "scraped_at": "2026-09-10T05:36:39.729547+00:00"
     },
     {
       "code": "52",
@@ -478,7 +478,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-marne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:13.251351+00:00"
+      "scraped_at": "2026-09-10T05:36:41.513023+00:00"
     },
     {
       "code": "53",
@@ -487,7 +487,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-mayenne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:15.046632+00:00"
+      "scraped_at": "2026-09-10T05:36:43.299631+00:00"
     },
     {
       "code": "54",
@@ -496,7 +496,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-meurthe-et-moselle/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:16.845356+00:00"
+      "scraped_at": "2026-09-10T05:36:45.083821+00:00"
     },
     {
       "code": "55",
@@ -505,7 +505,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-meuse/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:18.637652+00:00"
+      "scraped_at": "2026-09-10T05:36:46.869520+00:00"
     },
     {
       "code": "56",
@@ -514,7 +514,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-morbihan/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:20.424820+00:00"
+      "scraped_at": "2026-09-10T05:36:48.700273+00:00"
     },
     {
       "code": "57",
@@ -523,7 +523,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-moselle/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:22.221060+00:00"
+      "scraped_at": "2026-09-10T05:36:50.492460+00:00"
     },
     {
       "code": "58",
@@ -532,7 +532,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-nievre/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:24.009334+00:00"
+      "scraped_at": "2026-09-10T05:36:52.275589+00:00"
     },
     {
       "code": "59",
@@ -541,7 +541,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-nord/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:25.797056+00:00"
+      "scraped_at": "2026-09-10T05:36:54.061615+00:00"
     },
     {
       "code": "60",
@@ -550,7 +550,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-oise/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:27.582811+00:00"
+      "scraped_at": "2026-09-10T05:36:55.853043+00:00"
     },
     {
       "code": "61",
@@ -559,7 +559,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-orne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:29.370699+00:00"
+      "scraped_at": "2026-09-10T05:36:57.636563+00:00"
     },
     {
       "code": "62",
@@ -568,7 +568,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-pas-de-calais/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:31.162054+00:00"
+      "scraped_at": "2026-09-10T05:36:59.432501+00:00"
     },
     {
       "code": "63",
@@ -577,7 +577,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-puy-de-dome/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:32.947744+00:00"
+      "scraped_at": "2026-09-10T05:37:01.218574+00:00"
     },
     {
       "code": "64",
@@ -586,7 +586,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-pyrenees-atlantiques/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:34.734041+00:00"
+      "scraped_at": "2026-09-10T05:37:03.029045+00:00"
     },
     {
       "code": "65",
@@ -595,7 +595,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-hautes-pyrenees/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:36.519301+00:00"
+      "scraped_at": "2026-09-10T05:37:04.812285+00:00"
     },
     {
       "code": "66",
@@ -604,7 +604,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-pyrenees-orientales/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:38.327290+00:00"
+      "scraped_at": "2026-09-10T05:37:06.599097+00:00"
     },
     {
       "code": "67",
@@ -613,7 +613,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-bas-rhin/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:40.117304+00:00"
+      "scraped_at": "2026-09-10T05:37:08.383783+00:00"
     },
     {
       "code": "68",
@@ -622,7 +622,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-haut-rhin/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:41.903743+00:00"
+      "scraped_at": "2026-09-10T05:37:10.175515+00:00"
     },
     {
       "code": "69",
@@ -631,7 +631,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-rhone/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:43.696853+00:00"
+      "scraped_at": "2026-09-10T05:37:11.960959+00:00"
     },
     {
       "code": "70",
@@ -640,7 +640,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-haute-saone/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:45.486096+00:00"
+      "scraped_at": "2026-09-10T05:37:13.743790+00:00"
     },
     {
       "code": "71",
@@ -649,7 +649,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-saone-et-loire/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:47.284372+00:00"
+      "scraped_at": "2026-09-10T05:37:15.528160+00:00"
     },
     {
       "code": "72",
@@ -658,7 +658,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-sarthe/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:49.067347+00:00"
+      "scraped_at": "2026-09-10T05:37:17.310642+00:00"
     },
     {
       "code": "73",
@@ -667,7 +667,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-savoie/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:50.855680+00:00"
+      "scraped_at": "2026-09-10T05:37:19.105676+00:00"
     },
     {
       "code": "74",
@@ -676,7 +676,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-savoie/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:52.643841+00:00"
+      "scraped_at": "2026-09-10T05:37:20.899212+00:00"
     },
     {
       "code": "75",
@@ -685,7 +685,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-paris/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:54.435903+00:00"
+      "scraped_at": "2026-09-10T05:37:22.681792+00:00"
     },
     {
       "code": "76",
@@ -694,7 +694,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-seine-maritime/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:56.246720+00:00"
+      "scraped_at": "2026-09-10T05:37:24.512466+00:00"
     },
     {
       "code": "77",
@@ -703,7 +703,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-seine-et-marne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:58.034690+00:00"
+      "scraped_at": "2026-09-10T05:37:26.294534+00:00"
     },
     {
       "code": "78",
@@ -712,7 +712,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-yvelines/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:37:59.826988+00:00"
+      "scraped_at": "2026-09-10T05:37:28.078617+00:00"
     },
     {
       "code": "79",
@@ -721,7 +721,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-deux-sevres/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:01.625661+00:00"
+      "scraped_at": "2026-09-10T05:37:29.867592+00:00"
     },
     {
       "code": "80",
@@ -730,7 +730,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-somme/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:03.415507+00:00"
+      "scraped_at": "2026-09-10T05:37:31.656415+00:00"
     },
     {
       "code": "81",
@@ -739,7 +739,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-tarn/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:05.226149+00:00"
+      "scraped_at": "2026-09-10T05:37:33.443472+00:00"
     },
     {
       "code": "82",
@@ -748,7 +748,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-tarn-et-garonne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:07.018126+00:00"
+      "scraped_at": "2026-09-10T05:37:35.230232+00:00"
     },
     {
       "code": "83",
@@ -757,7 +757,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-var/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:08.821489+00:00"
+      "scraped_at": "2026-09-10T05:37:37.010243+00:00"
     },
     {
       "code": "84",
@@ -766,7 +766,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-vaucluse/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:10.615002+00:00"
+      "scraped_at": "2026-09-10T05:37:38.798421+00:00"
     },
     {
       "code": "85",
@@ -775,7 +775,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-vendee/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:12.405536+00:00"
+      "scraped_at": "2026-09-10T05:37:40.583698+00:00"
     },
     {
       "code": "86",
@@ -784,7 +784,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-vienne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:14.195950+00:00"
+      "scraped_at": "2026-09-10T05:37:42.367464+00:00"
     },
     {
       "code": "87",
@@ -793,7 +793,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-haute-vienne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:15.978686+00:00"
+      "scraped_at": "2026-09-10T05:37:44.162826+00:00"
     },
     {
       "code": "88",
@@ -802,7 +802,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-vosges/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:17.773930+00:00"
+      "scraped_at": "2026-09-10T05:37:45.958122+00:00"
     },
     {
       "code": "89",
@@ -811,7 +811,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-yonne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:19.561387+00:00"
+      "scraped_at": "2026-09-10T05:37:47.751939+00:00"
     },
     {
       "code": "90",
@@ -820,7 +820,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-territoire-de-belfort/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:21.350308+00:00"
+      "scraped_at": "2026-09-10T05:37:49.574516+00:00"
     },
     {
       "code": "91",
@@ -829,7 +829,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-l-essonne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:23.138976+00:00"
+      "scraped_at": "2026-09-10T05:37:51.367227+00:00"
     },
     {
       "code": "92",
@@ -838,7 +838,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-des-hauts-de-seine/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:24.932285+00:00"
+      "scraped_at": "2026-09-10T05:37:53.162708+00:00"
     },
     {
       "code": "93",
@@ -847,7 +847,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-seine-saint-denis/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:26.721041+00:00"
+      "scraped_at": "2026-09-10T05:37:54.951291+00:00"
     },
     {
       "code": "94",
@@ -856,7 +856,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-val-de-marne/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:28.504657+00:00"
+      "scraped_at": "2026-09-10T05:37:56.746858+00:00"
     },
     {
       "code": "95",
@@ -865,7 +865,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-du-val-d-oise/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:30.288480+00:00"
+      "scraped_at": "2026-09-10T05:37:58.532896+00:00"
     },
     {
       "code": "971",
@@ -874,7 +874,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-guadeloupe/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:32.072353+00:00"
+      "scraped_at": "2026-09-10T05:38:00.321819+00:00"
     },
     {
       "code": "972",
@@ -883,7 +883,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-martinique/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:33.860211+00:00"
+      "scraped_at": "2026-09-10T05:38:02.134761+00:00"
     },
     {
       "code": "973",
@@ -892,7 +892,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-guyane/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:35.644530+00:00"
+      "scraped_at": "2026-09-10T05:38:03.923957+00:00"
     },
     {
       "code": "974",
@@ -901,7 +901,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-la-reunion/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:37.432556+00:00"
+      "scraped_at": "2026-09-10T05:38:05.715179+00:00"
     },
     {
       "code": "976",
@@ -910,7 +910,7 @@
       "source_url": "https://www.caf.fr/allocataires/caf-de-mayotte/offre-de-service/thematique-libre/delais-de-traitement",
       "delais": {},
       "status": "page_ok_mais_aucun_delai_detecte",
-      "scraped_at": "2026-09-09T05:38:39.224361+00:00"
+      "scraped_at": "2026-09-10T05:38:07.502295+00:00"
     }
   ]
 }
